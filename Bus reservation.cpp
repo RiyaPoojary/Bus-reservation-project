@@ -1,9 +1,9 @@
 
 #include<conio.h>
-#include <cstdio>
-#include <iostream>
-#include <string.h>
-#include <cstdlib>
+#include<cstdio>
+#include<iostream>
+#include<string.h>
+#include<cstdlib>
 using namespace std;
 
 static int p = 0;
